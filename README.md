@@ -1,5 +1,5 @@
 # 💫 About Me:
-I found my passion when I saw my curiosity to understand how IT works for technology products and how many hours I spent on it without even realizing it.<br>I trained as a multi-platform application developer and furthered my studies by finishing computer engineering with a specialization in robotics.<br><br>I'm currently working on computer vision and software developing.<br><br>I'm currently learning about data science.
+I found my passion when I saw my curiosity to understand how IT works for technology products and how many hours I spent on it without even realizing it.<br>I trained as a multi-platform application developer and furthered my studies by finishing computer engineering with a specialization in robotics.<br><br>I'm currently working on computer vision and software developing and learning about data science.
 
 
 ## 🌐 Socials:
