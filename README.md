@@ -1,5 +1,9 @@
 # 💫 About Me:
-I found my passion when I saw my curiosity to understand how IT works for technology products and how many hours I spent on it without even realizing it.<br>I trained as a multi-platform application developer and furthered my studies by finishing computer engineering with a specialization in robotics.<br><br>I am currently working on computer vision and software development and expanding my studies through a master's degree in data science at University of Girona.
+Data Scientist with a background in Computer Engineering and a specialization in machine learning and artificial intelligence. Experienced in the full data lifecycle: from data collection and processing (ETL) to building pipelines and deploying predictive models in production environments.</br>
+
+Skilled in Python, applied statistics, exploratory data analysis, data visualization, and big data tools. Familiar with cloud platforms, especially AWS, and with best practices in reproducible data science.</br>
+
+Passionate about transforming data into actionable insights with real-world impact, combining a strong analytical mindset with business-oriented thinking. Looking to join teams where data science drives strategic decision-making.</br>
 
 
 ## 🌐 Socials:
